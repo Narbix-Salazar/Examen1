@@ -1,0 +1,14 @@
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.AssemblyInfoInputs.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.AssemblyInfo.cs
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.csproj.CoreCompileInputs.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\bin\Debug\net8.0\Examen-1.exe
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\bin\Debug\net8.0\Examen-1.deps.json
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\bin\Debug\net8.0\Examen-1.runtimeconfig.json
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\bin\Debug\net8.0\Examen-1.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\bin\Debug\net8.0\Examen-1.pdb
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\refint\Examen-1.dll
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.pdb
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\Examen-1.genruntimeconfig.cache
+C:\Users\Nar\Downloads\Tarea 2 -Narbix\Examen-1\Examen-1\obj\Debug\net8.0\ref\Examen-1.dll
